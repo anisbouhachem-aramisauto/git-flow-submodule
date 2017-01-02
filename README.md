@@ -1,2 +1,2 @@
 # git-flow-submodule test plugins
-feature1
+feature1.0
